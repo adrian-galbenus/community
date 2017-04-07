@@ -47,6 +47,7 @@
     </properties>
 
     <distributionManagement>
+        <downloadUrl>https://repository.kaazing.us/repository/maven-private/</downloadUrl>
         <snapshotRepository>
             <id>${snapshotRepositoryId}</id>
             <url>${snapshotRepositoryUrl}</url>
